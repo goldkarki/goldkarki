@@ -1,3 +1,3 @@
 - 👋 Hi, I’m karki
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C#, C++, Arduino
+- 🌱 I’m currently learning Flutter, Web and Native Android development
